@@ -1,6 +1,8 @@
 # LightGlue Streamlit Application
 
 This Streamlit application demonstrates the usage of LightGlue, a new technology that makes it easier and quicker to find similarities between pictures. It allows you to choose two images and find their similarities by clicking the "Matching" button.
+![](assets/Screenshot1.png)
+![](assets/Screenshot2.png)
 
 ## Getting Started
 
